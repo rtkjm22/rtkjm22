@@ -4,7 +4,3 @@
 
 💻 I'm good at HTML, CSS (SCSS, CSS design), JavaScript (Vue.js, Node.js, jQuery), PHP (Laravel), WordPress, Wix, Shopify.
 
-
-## Please contact me from the link below!
-
-[ryotako.com](https://ryotako.com)
